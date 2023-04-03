@@ -69,7 +69,7 @@ ul>li{
     width: 650px;  
 }
 
-.section2{
+.section-article{
     height: 60vh;
     align-items: center;
 }
@@ -81,13 +81,29 @@ ul>li{
 
 .bg-pink{
     background-color: rgba(255,192,203,255);
-    height: 450px;
+    height: 350px;
     width: 40%;
 
 }
 
 .bg-sky-blue{
     background-color: rgba(30,144,255,255);
-    height: 450px;
+    height: 350px;
     width: 60%;
+}
+
+.bg-grey{
+    background-color: grey;  
+}
+
+.bg-green{
+    background-color: rgba(34,139,34,255);
+    height: 90vh;
+    width: 800px;
+}
+
+.section3{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
 }
