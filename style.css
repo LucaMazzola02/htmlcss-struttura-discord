@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.margin-auto{
+    margin: 0 auto;
+}
+
+.border-dotted{
+    border: 2px dotted black;
+}
+
+.bg-goldenrod{
+    background-color: goldenrod;
+}
+
+.flex{
+    display: flex;
+}
+
+header{
+    padding: 1%;
+    background-color: rgba(173,216,230,255);
+}
+
+nav{
+    width: 800px;
+}
+
+.logo{
+    width: 20%;
+    padding: 1.3% 0;
+    text-align: left;
+}
+
+ul{
+    list-style-type: none;
+    width: 60%;
+    padding: 1.3% 0;
+    justify-content: center;
+}
+
+ul>li{
+    margin: 0 .5rem;
+}
+
+
+.login{
+    width: 20%;
+    padding: 1.3% 0;
+    text-align: right;
+}
